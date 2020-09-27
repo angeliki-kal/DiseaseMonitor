@@ -3,7 +3,7 @@
 This program is implemented by a set of structures such as hash tables, binary trees and max heaps, in order to perform many viruses-related operations.
 
 ## Run
-./diseaseMonitor -p patientRecordsFile –h1 diseaseHashtableNumOfEntries –h2 countryHashtableNumOfEntries –b bucketSize
+### ./diseaseMonitor -p patientRecordsFile –h1 diseaseHashtableNumOfEntries –h2 countryHashtableNumOfEntries –b bucketSize
 
 + diseaseHashtableNumOfEntries: the available space of a hash table used in order to locate a patient's information.
 + countryHashtableNumOfEntries: the available space of a hash table used in order to locate information about illnesses' cases per country.
