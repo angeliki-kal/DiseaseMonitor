@@ -1,0 +1,14 @@
+55 Connie Armstrong MERS-COV Egypt 23-01-2007 -
+5 John Gates COVID-2019 Turkey 21-06-2004 -
+31 Robert Holland H1N1 Switzerland 07-01-2015 22-01-2017
+2 James Fisher MERS-COV USA 21-02-2000 31-01-2016
+19 Jason Meyer EVD Greece 29-10-2002 24-07-2019
+12 Peggy Burgess MERS-COV France 20-05-2009 11-11-2019
+52 Celia Deblanc EVD Italy 20-05-2009 -
+65 James Hawthorn MERS-COV Egypt 23-7-2010 -
+78 James Hawthorn MERS-COV Spain 23-7-2010 -
+83 James Hawthorn MERS-COV Australia 23-7-2010 -
+45 James Hawthorn MERS-COV Greece 23-7-2010 -
+99 James Hawthorn MERS-COV Australia 23-7-2010 -
+69 James Hawthorn MERS-COV Australia 23-7-2010 -
+87 James Hawthorn MERS-COV Australia 23-7-2010 -
