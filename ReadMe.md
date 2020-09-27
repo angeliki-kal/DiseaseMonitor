@@ -25,24 +25,24 @@ This program is implemented by a set of structures such as hash tables, binary t
 
 The program starts by reading line by line the input file and initializes and saves to the memory the data structures it will use when executing the queries. Futhermore, a validation check of the input is being made.
 When the application finishes processing the patientRecordsFile, it waits for user's input from the keyboard. The user is to give the following commands:
-1. /globalDiseaseStats  [date1 date2]
++ /globalDiseaseStats  [date1 date2]
 
 The application prints the number of cases for each virus, that have been recorded in the system the given dates. If no dates are given, then it prints all the records for that specific virus.
-2. /diseaseFrequency virusName [country] date1 date2
++ /diseaseFrequency virusName [country] date1 date2
 
 If no country argument is given, the application will print for the disease the number of cases recorded in the system within the dates [date1 ... date2]. If country argument is given, then it prints the results for the specific country.
 
-3. /insertPatientRecord recordID patientFirstName patientLastName diseaseIDcountry entryDate [exitDate]
++ /insertPatientRecord recordID patientFirstName patientLastName diseaseIDcountry entryDate [exitDate]
 
 The application will import a new record with its components. The exitDate component is optional.
 
-4. /recordPatientExit recordID exitDate
++ /recordPatientExit recordID exitDate
 
 The application will add exitDate to the record with ID recordID.
-5. /numCurrentPatients [disease]
++ /numCurrentPatients [disease]
 
 If given the disease argument, the application will print the number of patients still being treated for that disease. If no argument of disease is given, the application will print for each virus the records of patients that are still being treated.
-6. /exit
++ /exit
 
 Exits the application. Releases all the memory.
 
