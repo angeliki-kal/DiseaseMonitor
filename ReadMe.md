@@ -9,11 +9,11 @@ This program is implemented by a set of structures such as hash tables, binary t
 + countryHashtableNumOfEntries: the available space of a hash table used in order to locate information about illnesses' cases per country.
 + patientRecordsFile: a ile that contains a series of patient records to be processed. Each line of this file describes a case of a virus, the patient's name, in which country, the date of admission to a hospital, and the date of discharge. For example if the contents of the file are:
 
-889 Mary Smith COVID-2019 China 25-1-2019 27-1-2019
+              889 Mary Smith COVID-2019 China 25-1-2019 27-1-2019
 
-776 Larry Jones SARS-1 Italy 10-02-2003 –
+              776 Larry Jones SARS-1 Italy 10-02-2003 –
 
-125 Jon Dupont  H1N1 USA 12-02-2016 15-02-2016
+              125 Jon Dupont  H1N1 USA 12-02-2016 15-02-2016
 
 1. recordID: a string (it can only have digits) that determines, in a unique way, each record.
 2. patientFirstName: a string consisting of letters, without any space.
